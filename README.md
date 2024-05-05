@@ -26,3 +26,6 @@ Here are some of the key JavaScript concepts that we'll be covering in this repo
 - ES6+ Features (Arrow Functions, Template Literals, etc.)
 - Error Handling
 - and much more!
+
+- ![image](https://github.com/ronakbediya310/WEB-DEVELOPMENT-WITH-JAVASCIPT/assets/124416368/c545eb1b-c065-4645-8daf-e9d409e3f3c5)
+
